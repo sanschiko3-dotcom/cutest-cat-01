@@ -1,9 +1,9 @@
-// Cutest Cat entry (Node 22, standard library only): the cat in entry.png
-// was drawn with code (draw.py, PIL: a cream kitten with huge amber eyes,
-// tilted head, blush, whiskers, a curled tail and a yarn ball), and this
-// program copies it to /output/entry.png. The gate takes a whole PNG or
-// JPEG of at most 1 MiB and 1024 by 1024 pixels, and the judge sees
-// exactly the bytes copied.
+// Cutest Cat v2 entry (Node 22, standard library only): the cat in
+// entry.png was drawn with code (draw.py, PIL: a ginger kitten with huge
+// glossy eyes, a tongue blep, a daisy crown, hugging a smiling blue
+// plush fish, toe-bean paws), and this program copies it to
+// /output/entry.png. The gate takes a whole PNG or JPEG of at most 1 MiB
+// and 1024 by 1024 pixels, and the judge sees exactly the bytes copied.
 //
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts

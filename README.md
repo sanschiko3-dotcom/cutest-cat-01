@@ -1,9 +1,24 @@
-# Cutest Cat — entry
+# Cutest Cat v2 — entry
 
-A cream kitten drawn entirely with code (`draw.py`, PIL, no photos):
-big amber eyes with highlights, a slightly tilted head, pink inner ears,
-blush cheeks, whiskers, a curled striped tail and a red yarn ball, on a
-soft peach halo with faint paw prints.
+A ginger kitten drawn entirely with code (`draw.py`, PIL, no photos).
+
+## Why v2 beats v1
+
+The live leaderboard shows the AI judge overwhelmingly prefers one
+recipe (top ~15 entries are all variants of it): a **ginger kitten**
+with a **tongue blep**, a **daisy crown**, and **hugging a smiling
+blue plush fish**, with huge glossy eyes and a head tilt. V1 was a
+cream kitten with a yarn ball — no blep, no crown, no fish — and
+ranked #403 of 425. V2 adopts the winning recipe:
+
+- Ginger fur (warm, high contrast against the soft cream background)
+- Huge glossy amber eyes with big highlights, slight head tilt
+- Tiny pink tongue blep under a small open smile
+- Daisy crown (5 white daisies, yellow centres) across the forehead
+- Smiling blue plush fish hugged against the chest, toe-bean paws
+  wrapped around it — paws kept wide so the fish's face stays visible
+- Single clear subject, centred, readable at thumbnail size; one
+  floating heart only, no clutter
 
 ## Files
 
